@@ -3,6 +3,8 @@
 
 ![images](https://github.com/VinhCao09/Making_a_RemoteTVSony/blob/main/images/1.jpg)
 
+### Nếu bạn cần hỗ trợ đề tài này, đừng ngần ngại liên hệ mình. Mình là người tiên phong làm sản phẩm này tại Việt Nam và cũng như trên thế giới. Trên internet rất ít tài liệu liên quan tới dự án này!!!
+
 ## Components
 - Arduino Nano ATMega328P or ATMega168
 - Joystick
