@@ -3,6 +3,15 @@
 
 ![images](https://github.com/VinhCao09/Making_a_RemoteTVSony/blob/main/images/1.jpg)
 
+## Components
+- Arduino Nano ATMega328P or ATMega168
+- Joystick
+- Button
+- Power Supply: 9V DC Battery
+- IR transmitter
+- IR Receiver
+- 330ohm or 220ohm resistor (if u like) :))
+
 ## Version Recommend
 *Version Arduino IDE:*
 `2.3.2`
@@ -41,9 +50,11 @@ Ngoài ra, các bạn có thể xem mã tại đây, mình thấy nó khá chín
 
 Ở link đính kèm bao gồm một số mã TV: Samsung AA59 TV, TCL 55P715 TV, Panasonic TX65FXW784 TV, LG 55UH8509 TV, AppleTV Gen4,... Nếu không có thì bạn dùng code test ở trên để tự lấy mã hồng ngoại nhé. Ngoài tivi ra thì bạn có có thể thử nghiệm làm remote với điều hòa, máy quạt,... chỉ với code test trên để lấy mã. Sau đó lập trình cho nó phát ra thôi.
 
-Schematic: 
-![images](https://github.com/VinhCao09/Making_a_RemoteTVSony/blob/main/images/4.jpg)
+## Schematic
 
+Nhìn chung khá đơn giản, mình đọc một số tài liệu trên mạng thì họ có gắn nối tiếp một trở 220ohm hay 330ohm cho Led IR. Nhưng mình kết nối trực tiếp với chân từ Aruduino thì thấy nó chạy vẫn khá ngon, nên trong sơ đồ mình làm không nối với trở luôn.
+
+![images](https://github.com/VinhCao09/Making_a_RemoteTVSony/blob/main/images/4.jpg)
 
 ## 🚀 About Me
 Hello 👋I am Vinh. I'm studying HCMC University of Technology and Education
@@ -69,9 +80,9 @@ related Frameworks (Bootstrap)
 
 👉Click on the icon below to watch the demo video:
 
-[![Watch the video](https://media3.giphy.com/media/A7LF3J4uMJQ4r8ApLg/giphy.gif?cid=6c09b95275l1l3krhehcppcrgllmv64r7jd6py964efin2av&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)](https://www.tiktok.com/@vinhcaoplay/video/7389532656867740944?lang=vi-VN)
+[![Watch the video](https://media3.giphy.com/media/A7LF3J4uMJQ4r8ApLg/giphy.gif?cid=6c09b95275l1l3krhehcppcrgllmv64r7jd6py964efin2av&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)](https://www.tiktok.com/@vinhcaoplay/video/7395468211141004551?lang=vi-VN)
 
-https://www.tiktok.com/@vinhcaoplay/video/7389532656867740944?lang=vi-VN
+[https://www.tiktok.com/@vinhcaoplay/video/7389532656867740944?lang=vi-VN](https://www.tiktok.com/@vinhcaoplay/video/7395468211141004551?lang=vi-VN)
 
 
 ![Logo](https://codingninja.asia/images/codeninjalogo.png)
