@@ -1,9 +1,9 @@
 
 # Build a TV Sony Remote with Arduino Nano using IR Transmitter
 
-![images](https://github.com/VinhCao09/Making_a_RemoteTVSony/blob/main/images/1.jpg)
-
 ### Nếu bạn cần hỗ trợ đề tài này, đừng ngần ngại liên hệ mình. Mình là người tiên phong làm sản phẩm này tại Việt Nam và cũng như trên thế giới. Trên internet rất ít tài liệu liên quan tới dự án này!!!
+
+![images](https://github.com/VinhCao09/Making_a_RemoteTVSony/blob/main/images/1.jpg)
 
 ## Components
 - Arduino Nano ATMega328P or ATMega168
@@ -59,6 +59,8 @@ Ngoài ra, các bạn có thể xem mã tại đây, mình thấy nó khá chín
 Nhìn chung khá đơn giản, mình đọc một số tài liệu trên mạng thì họ có gắn nối tiếp một trở 220ohm hay 330ohm cho Led IR. Nhưng mình kết nối trực tiếp với chân từ Aruduino thì thấy nó chạy vẫn khá ngon, nên trong sơ đồ mình làm không nối với trở luôn.
 
 ![images](https://github.com/VinhCao09/Making_a_RemoteTVSony/blob/main/images/4.jpg)
+
+## 
 
 ## 🚀 About Me
 Hello 👋I am Vinh. I'm studying HCMC University of Technology and Education
