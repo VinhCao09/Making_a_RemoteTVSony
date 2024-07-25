@@ -19,7 +19,9 @@
 *Version Board:* Arduino AVR Board - `1.8.6`
 
 *Version Library:* IRremote by shirriff, z3t0, ArminJo - `2.6.0`
+
 `⚠️Library version 2.6.1 or higher may cause error. I use version 2.6.0 which is quite good`
+
 Link Library: https://downloads.arduino.cc/libraries/github.com/z3t0/IRremote-2.6.0.zip?
 
 ## How to use
