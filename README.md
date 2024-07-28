@@ -26,6 +26,9 @@
 
 Link Library: https://downloads.arduino.cc/libraries/github.com/z3t0/IRremote-2.6.0.zip?
 
+## Giải thích về remote hồng ngoại
+Nguyên lý là sử dụng tia hồng ngoại (IR, infrared). Hồng ngoại là bức xạ điện từ có bước sóng dài hơn ánh sáng khả kiến nhưng ngắn hơn sóng vô tuyến (khoảng từ 760nm đến 1mm). Bước sóng này nằm ngoài khả năng nhìn thấy của con người nên với mắt thường bạn không thể nhìn thấy được. Các hãng điện tử thì hầu hết tất cả các tín hiệu hồng ngoại để điều khiển dùng ở các Remote thì đều sử dụng sóng 38Khz, với thạch anh 455Khz. Về chuẩn điều chế và mã hóa code điều khiển thì có khá nhiều, mỗi nhà sản xuất đều có một chuẩn riêng cho mình như chuẩn NEC, RC5, RC6, Sony,... ,đây chính là điểm phân biệt giữa các nhà sản xuất và giữa các thiết bị với nhau, chứ không phải là mạch chọn tần.
+
 ## How to use
 
 ✔️Please read the code to connect the button pins.
