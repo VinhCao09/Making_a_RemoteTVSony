@@ -63,8 +63,6 @@ Nhìn chung khá đơn giản, mình đọc một số tài liệu trên mạng 
 
 ![images](https://github.com/VinhCao09/Making_a_RemoteTVSony/blob/main/images/4.jpg)
 
-## 
-
 ## 🚀 About Me
 Hello 👋I am Vinh. I'm studying HCMC University of Technology and Education
 
